@@ -3,3 +3,5 @@ this is chat application
 emoji
 type text
 video call
+
+dark mode
