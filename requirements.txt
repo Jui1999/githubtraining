@@ -5,3 +5,6 @@ type text
 video call
 
 dark mode
+
+payment option
+contact view
